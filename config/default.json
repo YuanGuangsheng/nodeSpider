@@ -1,0 +1,11 @@
+{
+  "ES": {
+    "Client": {
+      "host": "192.168.0.142:9200",
+      "log": "info",
+      "apiVersion": "5.0",
+      "keepAlive": true
+    },
+    "index": "bang-crawl"
+  }
+}
